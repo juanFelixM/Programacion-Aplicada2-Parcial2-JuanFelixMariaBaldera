@@ -37,11 +37,10 @@
 ### Pantallas Principales
 
 | Inicio de Sesión | Catálogo de Vehículos | Detalle y Compra | Vehiculos disponibles |
-| :---: | :---: | :---: | :---: |
-| <img width="740" height="1600" alt="inicio" src="https://github.com/user-attachments/assets/207f12da-bbdf-4acc-9290-f0527050fd46" />
-| <img width="740" height="1600" alt="catalogo" src="https://github.com/user-attachments/assets/1e55646f-fb7b-4dd6-863e-e80947608819" />
- | <img width="740" height="1600" alt="detalles de compra" src="https://github.com/user-attachments/assets/f629d64b-4f2c-4ac5-9f22-1bcd7acc0b05" />
- | <img width="740" height="1600" alt="solo disponibles" src="https://github.com/user-attachments/assets/e0ccb178-7a70-48d2-9d85-1d3f3c67b79d" />
+| <img width="740" height="1600" alt="inicio" src="https://github.com/user-attachments/assets/164a9b4b-7311-4fab-8b4d-9e7ff226c0b6" />
+ |<img width="740" height="1600" alt="catalogo" src="https://github.com/user-attachments/assets/f37b8a27-6b99-40d3-9036-0645be0f31a3" />
+ | <img width="740" height="1600" alt="detalles de compra" src="https://github.com/user-attachments/assets/a28987c3-adb0-48b9-9045-3f549afca247" />
+ | <img width="740" height="1600" alt="solo disponibles" src="https://github.com/user-attachments/assets/97f35887-9fda-4723-adf7-743f3366b761" />
 |
 
 Pantallas Principales
